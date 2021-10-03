@@ -1,0 +1,10 @@
+#include <conio.h>
+#include <stdio.h>
+int main()
+{
+  int n;
+  float sum=0.0,a,i;
+  clrscr();
+  
+  printf("\n Enter the value of n:");
+  scanf("%d)
